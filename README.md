@@ -1,2 +1,2 @@
-# plantApp
-Plants repository
+# placeholderApp
+placeholder repository
